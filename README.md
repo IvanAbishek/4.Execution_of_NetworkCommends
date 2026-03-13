@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+
 ![alt text](<../Screenshot 2026-03-13 110413.png>)
 ![alt text](<../Screenshot 2026-03-13 110440.png>)
 ![alt text](<../Screenshot 2026-03-13 110541.png>)
