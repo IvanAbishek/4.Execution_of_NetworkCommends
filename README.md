@@ -27,6 +27,19 @@ This commands includes
 <BR>
 
 ## Output
+![alt text](<../Screenshot 2026-03-13 110413.png>)
+![alt text](<../Screenshot 2026-03-13 110440.png>)
+![alt text](<../Screenshot 2026-03-13 110541.png>)
+![alt text](<../Screenshot 2026-03-13 110654.png>)
+![alt text](<../Screenshot 2026-03-13 110742.png>)
+![alt text](<../Screenshot 2026-03-13 110756.png>)
+![alt text](<../Screenshot 2026-03-13 110908.png>)
+![alt text](<../Screenshot 2026-03-13 110943.png>)
+![alt text](<../Screenshot 2026-03-13 111012.png>)
+![alt text](<../Screenshot 2026-03-13 111034.png>)
+![alt text](<../Screenshot 2026-03-13 111445.png>)
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
